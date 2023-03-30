@@ -2,7 +2,7 @@
 ## Other Mirrors
 [Coding Room Workspace (Read Only)](https://app.codingrooms.com/w/6shCv3fsdMOl)
 ## Description
-A project my partner and I did for the North Carolina State Leadership Conference. It didn't win anything sadly. It is a hangman clone
+A project my partner and I did for the North Carolina State Leadership Conference. It didn't win anything sadly. It is a hangman clone.
 ## License
 The bulk of the assets and code:
 [Creative Commons Zero v1.0 Universal](https://github.com/HenrySoftwareStudio/NC_SLC_Hangman-Project/blob/main/LICENSE)
