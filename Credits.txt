@@ -1,0 +1,10 @@
+All of the code and images, expect for the ones noted below, are created by the team of Shawn(legal name: Shawn Stanton) and Henry (legal name: Botao Feng). Both parties may used the material in this project in any other project provided they notify the other party first.
+
+Sprite class in sketch (sketch.pde line 941 to line 1069):
+    Originally developed by Henry for a school project, this class received substantial modification for use in this project. The claim to the copyright of this class belongs to Henry but he consented to giving up the sole rights of this class for the sake of this project.
+
+JSONArray Sorting Algorithm (sketch.pde line 556 to line 586): 
+    copyright 2013 Vito Gentile
+    https://stackoverflow.com/questions/19543862/how-can-i-sort-a-jsonarray-in-java
+    CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5/)
+
